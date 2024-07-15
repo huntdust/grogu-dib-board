@@ -1,0 +1,94 @@
+
+
+   ---- Transcoding 'U:\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-Edge_Cuts.gbr' ----   Fri Jun  7 16:17:59 2024
+
+D11   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-NPTH.drl' ----   Fri Jun  7 16:18:27 2024
+
+T1   --> T2
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-NPTH.drl' ----   Fri Jun  7 16:18:48 2024
+
+T1   --> T3
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-PTH.drl' ----   Fri Jun  7 16:18:55 2024
+
+T1   --> T2
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-B_Mask.gbr' ----   Mon Jul  8 16:59:21 2024
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-Edge_Cuts.gbr' ----   Mon Jul  8 16:59:23 2024
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-F_Cu.gbr' ----   Mon Jul  8 16:59:23 2024
+
+D10   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-F_Fab.gbr' ----   Mon Jul  8 16:59:24 2024
+
+D10   --> D106
+D11   --> D107
+D12   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-F_Mask.gbr' ----   Mon Jul  8 16:59:26 2024
+
+D10   --> D109
+D11   --> D110
+D12   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-F_Paste.gbr' ----   Mon Jul  8 16:59:27 2024
+
+D10   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-F_Silkscreen.gbr' ----   Mon Jul  8 16:59:28 2024
+
+D10   --> D113
+D11   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-PTH.drl' ----   Mon Jul  8 17:01:05 2024
+
+T1   --> T3
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-PTH.drl' ----   Mon Jul  8 17:09:34 2024
+
+T1   --> T4
+-----------------------------------------------------------------
+
+
+   ---- Transcoding '\\pilly\dragon\interface\Projects\Grogu\Supplier Management\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber\samtec-ptl-dib-mockup-1-NPTH.drl' ----   Mon Jul  8 17:09:39 2024
+
+T1   --> T5
+T2   --> T6
+T3   --> T7
+-----------------------------------------------------------------

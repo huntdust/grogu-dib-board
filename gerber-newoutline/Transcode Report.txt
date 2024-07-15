@@ -1,0 +1,6 @@
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Mockup #1\samtec-ptl-dib-mockup-1\gerber-newoutline\samtec-ptl-dib-mockup-1-PTH.drl' ----   Wed Jul 10 17:16:16 2024
+
+T1   --> T6
+-----------------------------------------------------------------
