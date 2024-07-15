@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.0"
     },
-    "CreationDate": "2024-07-11T11:33:30-07:00"
+    "CreationDate": "2024-07-15T09:45:36-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "samtec-ptl-dib-mockup-1",
-      "GUID": "73616d74-6563-42d7-9074-6c2d6469622d",
+      "Name": "grogu-dib-board",
+      "GUID": "67726f67-752d-4646-9962-2d626f617264",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,12 +32,52 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "samtec-ptl-dib-mockup-1-B_Cu.gbr",
+      "Path": "grogu-dib-board-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "samtec-ptl-dib-mockup-1-F_Fab.gbr",
+      "Path": "grogu-dib-board-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "grogu-dib-board-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "grogu-dib-board-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "grogu-dib-board-F_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     }

@@ -4,3 +4,69 @@
 
 T1   --> T6
 -----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-B_Mask.gbr' ----   Mon Jul 15 09:42:15 2024
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-Edge_Cuts.gbr' ----   Mon Jul 15 09:42:17 2024
+
+D10   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-F_Cu.gbr' ----   Mon Jul 15 09:42:18 2024
+
+D10   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-F_Fab.gbr' ----   Mon Jul 15 09:42:19 2024
+
+D10   --> D105
+D11   --> D106
+D12   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-F_Mask.gbr' ----   Mon Jul 15 09:42:20 2024
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-F_Silkscreen.gbr' ----   Mon Jul 15 09:42:22 2024
+
+D10   --> D114
+D11   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-PTH.drl' ----   Mon Jul 15 09:42:22 2024
+
+T1   --> T6
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-B_Mask.gbr' ----   Mon Jul 15 09:45:44 2024
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'U:\Grogu\Samtec PTL\Prototyping\grogu-dib-board\grogu-dib-board\gerber-newoutline\grogu-dib-board-F_Paste.gbr' ----   Mon Jul 15 09:49:11 2024
+
+D10   --> D119
+-----------------------------------------------------------------
